@@ -18,7 +18,7 @@ public class StudentExample6 {
     public static void main(String[] args) {
          Scanner input = new Scanner(System.in);
         
-        Student[] students = new Student[3];
+        Student[] students = new Student[5];
         
         for (int i = 0; i < students.length; i++) {
             System.out.println("Enter a name");
